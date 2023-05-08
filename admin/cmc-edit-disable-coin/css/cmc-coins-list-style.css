@@ -1,0 +1,131 @@
+th#disable_coin {
+    padding-left: 50px;
+}
+
+button.cmc-disable-button.disable {
+    background-color: #c35959;
+}
+
+button.cmc-disable-button.enable {
+    background-color: seagreen;
+}
+
+button.cmc-add-button {
+    background-color: darkgray;
+}
+
+
+/* adjust search box and pagination button */
+
+form .tablenav p.search-box {
+    margin: 0 0 10px 0;
+}
+
+form .tablenav .tablenav-pages {
+    margin: 0 20px 10px 0;
+}
+
+.button,
+button[type='button'] {
+    cursor: pointer;
+}
+
+.cmc-disable-button {
+    position: relative;
+}
+
+tbody#the-list tr.coin-disabled td {
+    transition: all .9s ease-in-out;
+    background: #808080a3;
+    color: white;
+}
+
+
+/*
+*   Disable button CSS
+*/
+
+td.disable_coin.column-disable_coin {
+    vertical-align: middle;
+}
+
+input.coin-disable-checkbox {
+    visibility: hidden;
+    width: 0px;
+    height: 0px;
+    margin: -10px;
+}
+
+.coin-disable-slider {
+    display: inline-block;
+    height: 20px;
+    width: 115px;
+    background: #109310;
+    border-radius: 50px;
+    transition: all .5s ease;
+}
+
+.coin-disable-slider:before {
+    position: absolute;
+    content: '';
+    border-radius: 40px;
+    height: 25px;
+    width: 25px;
+    top: -9px;
+    left: -5px;
+    z-index: 2;
+    background: lightsalmon;
+    transition: all .5s ease;
+}
+
+.coin-disable-slider.deactivate {
+    background: #ff0000b5;
+}
+
+.coin-disable-slider.deactivate:before {
+    background: lightsalmon;
+    left: 95px;
+}
+
+.coin-disable-slider.deactivate:after {
+    content: 'Disabled';
+    color: #fff;
+    left: 15px;
+}
+
+.coin-disable-slider:after {
+    letter-spacing: .9px;
+    color: #fff;
+    position: absolute;
+    content: 'Enabled';
+    font-weight: 600;
+    height: 20px;
+    width: 65px;
+    top: -7px;
+    left: 50px;
+    z-index: 1;
+    transition: all .5s ease-out;
+}
+
+
+/**
+*multiselect Design
+*/
+
+.category.column-category span.select2.select2-container.select2-container--default.select2-container--below {
+    width: 240px !important;
+}
+
+span.select2.select2-container.select2-container--default {
+    width: 100% !important;
+}
+
+.select2-hidden-accessible {
+    border: 0 !important;
+    clip: rect(0 0 0 0) !important;
+    height: 1px !important;
+    margin: -1px !important;
+    overflow: hidden !important;
+    padding: 0 !important;
+    position: initial;
+}

@@ -1,0 +1,514 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Coin Market Cap\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-02 10:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: includes/shortcodes/cmc-shortcode.php:274
+msgid "#"
+msgstr ""
+
+#: includes/shortcodes/cmc-shortcode.php:308
+msgid "% Change"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:917
+#: includes/shortcodes/cmc-single-shortcode.php:820
+msgid "1M"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:920
+#: includes/shortcodes/cmc-single-shortcode.php:823
+msgid "1Y"
+msgstr ""
+
+#: includes/shortcodes/cmc-shortcode.php:287
+msgid "1Y "
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:705
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:915
+#: includes/shortcodes/cmc-shortcode.php:290
+#: includes/shortcodes/cmc-shortcode.php:293
+#: includes/shortcodes/cmc-shortcode.php:299
+#: includes/shortcodes/cmc-single-shortcode.php:818
+#: includes/shortcodes/cmc-top-gl-shortcode.php:63
+msgid "24H"
+msgstr ""
+
+#: includes/shortcodes/cmc-shortcode.php:278
+msgid "24H "
+msgstr ""
+
+#: includes/shortcodes/cmc-single-shortcode.php:657
+msgid "24h % "
+msgstr ""
+
+#: includes/shortcodes/cmc-shortcode.php:447
+msgid "24h Vol:"
+msgstr ""
+
+#: includes/shortcodes/cmc-shortcode.php:284
+msgid "30D "
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:918
+#: includes/shortcodes/cmc-single-shortcode.php:821
+msgid "3M"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:919
+#: includes/shortcodes/cmc-single-shortcode.php:822
+msgid "6M"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:916
+#: includes/shortcodes/cmc-single-shortcode.php:819
+msgid "7D"
+msgstr ""
+
+#: includes/shortcodes/cmc-shortcode.php:281
+msgid "7D "
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:931
+#: includes/shortcodes/cmc-single-shortcode.php:834
+msgid "<b> Loading Data </b> <br>Please wait, we are loading chart data"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:707
+#: includes/shortcodes/cmc-shortcode.php:269
+#: includes/shortcodes/cmc-single-shortcode.php:652
+msgid "Add to watch list"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:746
+#: includes/shortcodes/cmc-shortcode.php:305
+#: includes/shortcodes/cmc-shortcode.php:308
+msgid "ATH"
+msgstr ""
+
+#: includes/shortcodes/cmc-shortcode.php:311
+msgid "ATH  "
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:752
+msgid "ATH Date"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:749
+msgid "ATH(% Change)"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:731
+#: includes/shortcodes/cmc-shortcode.php:302
+#: includes/shortcodes/cmc-single-shortcode.php:685
+msgid "Available Supply"
+msgstr ""
+
+#: includes/shortcodes/cmc-calculator.php:163
+msgid "Base Currency"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Best cryptocurrency plugin to automatically create 2000+ crypto coins single "
+"pages with their price, historical price, chart, exchanges list and social-"
+"feed data."
+msgstr ""
+
+#: includes/shortcodes/cmc-calculator.php:205
+msgid "Bitcoin"
+msgstr ""
+
+#: includes/shortcodes/cmc-single-shortcode.php:987
+msgid "Block"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:1124
+msgid "Block Explorer"
+msgstr ""
+
+#: includes/shortcodes/cmc-shortcode.php:449
+msgid "BTC Dominance: "
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:1292
+#: includes/shortcodes/cmc-single-shortcode.php:1179
+msgid "Buy / Sell"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:1316
+msgid "Calculator"
+msgstr ""
+
+#: includes/shortcodes/cmc-shortcode.php:278
+#: includes/shortcodes/cmc-shortcode.php:281
+#: includes/shortcodes/cmc-shortcode.php:284
+#: includes/shortcodes/cmc-shortcode.php:287
+#: includes/shortcodes/cmc-top-gl-shortcode.php:63
+msgid "Changes "
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:1316
+msgid "Chart"
+msgstr ""
+
+#: admin/cmc-edit-disable-coin/cmc-display-table.php:302
+#: admin/cmc-edit-disable-coin/cmc-display-table.php:306
+#: admin/cmc-edit-disable-coin/cmc-display-table.php:311
+#, php-format
+msgid "Click to %s %s coin"
+msgstr ""
+
+#. Name of the plugin
+msgid "Coins MarketCap"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:1316
+msgid "Comments"
+msgstr ""
+
+#: includes/shortcodes/cmc-calculator.php:175
+msgid "Convert To"
+msgstr ""
+
+#. Author of the plugin
+msgid "Cool Plugins"
+msgstr ""
+
+#: includes/shortcodes/cmc-calculator.php:177
+msgid "Currencies"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:786
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:1384
+#: includes/shortcodes/cmc-single-shortcode.php:693
+msgid "Currency Not Found"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:834
+#: includes/shortcodes/cmc-shortcode.php:311
+#: includes/shortcodes/cmc-single-shortcode.php:748
+msgid "Date"
+msgstr ""
+
+#: admin/cmc-edit-disable-coin/cmc-display-table.php:310
+msgid "Disable"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:404
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:482
+#: includes/shortcodes/cmc-single-shortcode.php:343
+#: includes/shortcodes/cmc-single-shortcode.php:424
+msgid "down"
+msgstr ""
+
+#: admin/cmc-edit-disable-coin/cmc-display-table.php:298
+msgid "Edit"
+msgstr ""
+
+#: admin/cmc-edit-disable-coin/cmc-display-table.php:305
+msgid "Enable"
+msgstr ""
+
+#: includes/shortcodes/cmc-calculator.php:162
+msgid "Enter Amount"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:824
+#: includes/shortcodes/cmc-single-shortcode.php:738
+msgid "Entries"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:1316
+msgid "Exchanges"
+msgstr ""
+
+#: includes/shortcodes/cmc-single-shortcode.php:987
+msgid "Explorer"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:1150
+#: includes/shortcodes/cmc-single-shortcode.php:1013
+msgid "Facebook"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:914
+#: includes/shortcodes/cmc-single-shortcode.php:817
+msgid "From"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:1139
+#: includes/shortcodes/cmc-single-shortcode.php:1002
+msgid "Github"
+msgstr ""
+
+#: includes/shortcodes/cmc-shortcode.php:290
+msgid "High"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:1316
+msgid "Historical Data"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://coolplugins.net/"
+msgstr ""
+
+#: includes/shortcodes/cmc-single-shortcode.php:654
+msgid "Live Price "
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:1242
+msgid "Loading facebook comment(s)"
+msgstr ""
+
+#: includes/shortcodes/cmc-shortcode.php:250
+msgid "Loading..."
+msgstr ""
+
+#: includes/shortcodes/cmc-shortcode.php:293
+msgid "Low"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:725
+#: includes/shortcodes/cmc-shortcode.php:296
+#: includes/shortcodes/cmc-single-shortcode.php:662
+msgid "Market Cap"
+msgstr ""
+
+#: includes/shortcodes/cmc-shortcode.php:438
+msgid "Market Cap:"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:837
+#: includes/shortcodes/cmc-single-shortcode.php:751
+msgid "MarketCap"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:361
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:476
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:590
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:604
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:613
+#: includes/shortcodes/cmc-single-shortcode.php:337
+#: includes/shortcodes/cmc-single-shortcode.php:418
+#: includes/shortcodes/cmc-single-shortcode.php:585
+#: includes/shortcodes/cmc-single-shortcode.php:597
+#: includes/shortcodes/cmc-single-shortcode.php:606
+msgid "N/A"
+msgstr ""
+
+#: includes/shortcodes/cmc-shortcode.php:275
+#: includes/shortcodes/cmc-top-gl-shortcode.php:61
+msgid "Name"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:822
+#: includes/shortcodes/cmc-shortcode.php:240
+#: includes/shortcodes/cmc-shortcode.php:247
+#: includes/shortcodes/cmc-single-shortcode.php:736
+msgid "Next"
+msgstr ""
+
+#: includes/shortcodes/cmc-shortcode.php:251
+msgid "No Coin Found"
+msgstr ""
+
+#: admin/cmc-edit-disable-coin/cmc-display-table.php:40
+msgid "No coin(s) found."
+msgstr ""
+
+#: includes/shortcodes/cmc-shortcode.php:252
+msgid "No Favourite Coin"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:932
+#: includes/shortcodes/cmc-shortcode.php:322
+#: includes/shortcodes/cmc-single-shortcode.php:835
+msgid "No Graphical Data"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:825
+#: includes/shortcodes/cmc-single-shortcode.php:739
+msgid "No Historical Data Available"
+msgstr ""
+
+#: admin/cmc-edit-disable-coin/cmc-coins-list-class.php:79
+msgid "Number of coins per page"
+msgstr ""
+
+#: includes/shortcodes/cmc-single-shortcode.php:990
+msgid "Official"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:1127
+msgid "Official Website"
+msgstr ""
+
+#: includes/shortcodes/cmc-single-shortcode.php:993
+msgid "Paper"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:821
+#: includes/shortcodes/cmc-shortcode.php:239
+#: includes/shortcodes/cmc-shortcode.php:246
+#: includes/shortcodes/cmc-single-shortcode.php:735
+msgid "Previous"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:835
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:923
+#: includes/shortcodes/cmc-shortcode.php:276
+#: includes/shortcodes/cmc-single-shortcode.php:749
+#: includes/shortcodes/cmc-single-shortcode.php:826
+#: includes/shortcodes/cmc-top-gl-shortcode.php:62
+msgid "Price"
+msgstr ""
+
+#: includes/shortcodes/cmc-shortcode.php:333
+msgid "Price Graph "
+msgstr ""
+
+#: includes/shortcodes/cmc-top-gl-shortcode.php:50
+msgid "Processing..."
+msgstr ""
+
+#: includes/shortcodes/cmc-single-shortcode.php:687
+msgid "Rank"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:1121
+#, php-format
+msgid "Rank %s"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:536
+msgid "Read Less"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:535
+msgid "Read More"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:1144
+#: includes/shortcodes/cmc-single-shortcode.php:1007
+msgid "Reddit"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:707
+#: includes/shortcodes/cmc-shortcode.php:269
+#: includes/shortcodes/cmc-single-shortcode.php:652
+msgid "Remove from watch list"
+msgstr ""
+
+#: includes/shortcodes/cmc-shortcode.php:174
+msgid "Search"
+msgstr ""
+
+#: includes/cmc-helpers.php:272
+msgid "search"
+msgstr ""
+
+#: includes/shortcodes/cmc-shortcode.php:140
+#, php-format
+msgid "Shortcode with id %d is not available"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:823
+#: includes/shortcodes/cmc-single-shortcode.php:737
+msgid "Show"
+msgstr ""
+
+#: includes/shortcodes/cmc-shortcode.php:264
+msgid "Show/Hide Watch List"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:842
+#: includes/shortcodes/cmc-single-shortcode.php:756
+msgid "Something Wrong With URL"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:789
+#: includes/shortcodes/cmc-single-shortcode.php:696
+msgid "Something wrong with URL"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:921
+#: includes/shortcodes/cmc-single-shortcode.php:824
+msgid "To"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:1147
+#: includes/shortcodes/cmc-single-shortcode.php:1010
+msgid "Twitter"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:1316
+msgid "Twitter Feeds"
+msgstr ""
+
+#: includes/cmc-helpers.php:273
+msgid "Unable to find any result"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:707
+msgid "Unwatch"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:406
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:484
+#: includes/shortcodes/cmc-single-shortcode.php:345
+#: includes/shortcodes/cmc-single-shortcode.php:426
+msgid "up"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:728
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:836
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:924
+#: includes/shortcodes/cmc-single-shortcode.php:665
+#: includes/shortcodes/cmc-single-shortcode.php:750
+#: includes/shortcodes/cmc-single-shortcode.php:827
+msgid "Volume"
+msgstr ""
+
+#: includes/shortcodes/cmc-shortcode.php:299
+msgid "Volume "
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:707
+msgid "Watch"
+msgstr ""
+
+#: includes/shortcodes/cmc-single-shortcode.php:990
+msgid "Website"
+msgstr ""
+
+#: includes/shortcodes/cmc-single-shortcode.php:993
+msgid "White"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:1130
+msgid "White Paper"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:1133
+#: includes/shortcodes/cmc-single-shortcode.php:996
+msgid "YouTube"
+msgstr ""
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:922
+#: includes/shortcodes/cmc-single-shortcode.php:825
+msgid "Zoom"
+msgstr ""

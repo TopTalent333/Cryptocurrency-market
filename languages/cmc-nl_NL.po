@@ -1,0 +1,484 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-17 05:06+0000\n"
+"PO-Revision-Date: 2021-06-02 10:36+0000\n"
+"Last-Translator: \n"
+"Language-Team: Dutch\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2"
+
+#: includes/shortcodes/cmc-shortcode.php:247
+msgid "#"
+msgstr "#"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:751
+#: includes/shortcodes/cmc-single-shortcode.php:743
+msgid "1D"
+msgstr "1D"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:753
+#: includes/shortcodes/cmc-single-shortcode.php:745
+msgid "1M"
+msgstr "1M"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:756
+#: includes/shortcodes/cmc-single-shortcode.php:748
+msgid "1Y"
+msgstr "1Y"
+
+#: includes/shortcodes/cmc-shortcode.php:260
+msgid "1Y "
+msgstr "1Y "
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:598
+#: includes/shortcodes/cmc-shortcode.php:267
+#: includes/shortcodes/cmc-top-gl-shortcode.php:63
+msgid "24H"
+msgstr "24 uur"
+
+#: includes/shortcodes/cmc-shortcode.php:251
+msgid "24H "
+msgstr "24 uur"
+
+#: includes/shortcodes/cmc-single-shortcode.php:599
+msgid "24h % "
+msgstr "24 uur%"
+
+#: includes/shortcodes/cmc-shortcode.php:397
+msgid "24h Vol:"
+msgstr "24 uur Vol:"
+
+#: includes/shortcodes/cmc-shortcode.php:257
+msgid "30D "
+msgstr "30D "
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:754
+#: includes/shortcodes/cmc-single-shortcode.php:746
+msgid "3M"
+msgstr "3M"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:755
+#: includes/shortcodes/cmc-single-shortcode.php:747
+msgid "6M"
+msgstr "6M"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:752
+#: includes/shortcodes/cmc-single-shortcode.php:744
+msgid "7D"
+msgstr "7D"
+
+#: includes/shortcodes/cmc-shortcode.php:254
+msgid "7D "
+msgstr "7D "
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:600
+#: includes/shortcodes/cmc-shortcode.php:242
+#: includes/shortcodes/cmc-single-shortcode.php:594
+msgid "Add to watch list"
+msgstr "Toevoegen aan kijklijst"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:620
+#: includes/shortcodes/cmc-shortcode.php:270
+#: includes/shortcodes/cmc-single-shortcode.php:612
+msgid "Available Supply"
+msgstr "Beschikbaar aanbod"
+
+#: includes/shortcodes/cmc-calculator.php:113
+msgid "Base Currency"
+msgstr "Basisvaluta"
+
+#. Description of the plugin
+msgid ""
+"Best cryptocurrency plugin to automatically create 2000+ crypto coins single "
+"pages with their price, historical price, chart, exchanges list and social-"
+"feed data."
+msgstr ""
+"Best cryptocurrency plugin to automatically create 2000+ crypto coins single "
+"pages with their price, historical price, chart, exchanges list and social-"
+"feed data."
+
+#: includes/shortcodes/cmc-calculator.php:155
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+#: includes/shortcodes/cmc-single-shortcode.php:912
+msgid "Block"
+msgstr "Blok"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:933
+msgid "Block Explorer"
+msgstr "Blok Explorer"
+
+#: includes/shortcodes/cmc-shortcode.php:399
+msgid "BTC Dominance: "
+msgstr "BTC dominantie:"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:1093
+#: includes/shortcodes/cmc-single-shortcode.php:1099
+msgid "Buy / Sell"
+msgstr "Kopen verkopen"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:1115
+msgid "Calculator"
+msgstr "Calculator"
+
+#: includes/shortcodes/cmc-shortcode.php:251
+#: includes/shortcodes/cmc-shortcode.php:254
+#: includes/shortcodes/cmc-shortcode.php:257
+#: includes/shortcodes/cmc-shortcode.php:260
+#: includes/shortcodes/cmc-top-gl-shortcode.php:63
+msgid "Changes "
+msgstr "Veranderingen"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:1115
+msgid "Chart"
+msgstr "Grafiek"
+
+#: admin/cmc-edit-disable-coin/cmc-display-table.php:300
+#: admin/cmc-edit-disable-coin/cmc-display-table.php:304
+#: admin/cmc-edit-disable-coin/cmc-display-table.php:309
+#, php-format
+msgid "Click to %s %s coin"
+msgstr "Klik naar de munt van %s  %s "
+
+#. Name of the plugin
+msgid "Coins MarketCap"
+msgstr "Coins MarketCap"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:1115
+msgid "Comments"
+msgstr "Reacties"
+
+#: includes/shortcodes/cmc-calculator.php:125
+msgid "Convert To"
+msgstr "Omzetten naar"
+
+#. Author of the plugin
+msgid "Cool Plugins"
+msgstr "Cool Plugins"
+
+#: includes/shortcodes/cmc-calculator.php:127
+msgid "Currencies"
+msgstr "valuta"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:644
+#: includes/shortcodes/cmc-single-shortcode.php:621
+msgid "Currency Not Found"
+msgstr "Valuta niet gevonden"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:692
+#: includes/shortcodes/cmc-single-shortcode.php:676
+msgid "Date"
+msgstr "Datum"
+
+#: admin/cmc-edit-disable-coin/cmc-display-table.php:308
+msgid "Disable"
+msgstr "Uitschakelen"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:356
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:434
+#: includes/shortcodes/cmc-single-shortcode.php:335
+#: includes/shortcodes/cmc-single-shortcode.php:414
+msgid "down"
+msgstr "omlaag"
+
+#: admin/cmc-edit-disable-coin/cmc-display-table.php:296
+msgid "Edit"
+msgstr "Bewerk"
+
+#: admin/cmc-edit-disable-coin/cmc-display-table.php:303
+msgid "Enable"
+msgstr "Inschakelen"
+
+#: includes/shortcodes/cmc-calculator.php:112
+msgid "Enter Amount"
+msgstr "Voer een bedrag in"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:682
+#: includes/shortcodes/cmc-single-shortcode.php:666
+msgid "Entries"
+msgstr "inzendingen"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:1115
+msgid "Exchanges"
+msgstr "Beurzen"
+
+#: includes/shortcodes/cmc-single-shortcode.php:912
+msgid "Explorer"
+msgstr "Explorer"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:959
+#: includes/shortcodes/cmc-single-shortcode.php:938
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:750
+#: includes/shortcodes/cmc-single-shortcode.php:742
+msgid "From"
+msgstr "Van"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:948
+#: includes/shortcodes/cmc-single-shortcode.php:927
+msgid "Github"
+msgstr "Github"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:1115
+msgid "Historical Data"
+msgstr "Historische Gegevens"
+
+#. Author URI of the plugin
+msgid "https://coolplugins.net/"
+msgstr "https://coolplugins.net/"
+
+#: includes/shortcodes/cmc-single-shortcode.php:596
+msgid "Live Price "
+msgstr "Live prijs"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:766
+#: includes/shortcodes/cmc-single-shortcode.php:758
+msgid "Loading Chart..."
+msgstr "Diagram laden ..."
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:1043
+msgid "Loading facebook comment(s)"
+msgstr "Het laden van facebook comment(s)"
+
+#: includes/shortcodes/cmc-shortcode.php:225
+msgid "Loading..."
+msgstr "Bezig met laden..."
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:614
+#: includes/shortcodes/cmc-shortcode.php:264
+#: includes/shortcodes/cmc-single-shortcode.php:604
+msgid "Market Cap"
+msgstr "Marktkapitalisatie"
+
+#: includes/shortcodes/cmc-shortcode.php:388
+msgid "Market Cap:"
+msgstr ""
+"Marktkapitalisatie:\n"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:695
+#: includes/shortcodes/cmc-single-shortcode.php:679
+msgid "MarketCap"
+msgstr "Marktkapitalisatie"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:350
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:428
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:542
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:553
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:562
+#: includes/shortcodes/cmc-single-shortcode.php:329
+#: includes/shortcodes/cmc-single-shortcode.php:408
+#: includes/shortcodes/cmc-single-shortcode.php:546
+#: includes/shortcodes/cmc-single-shortcode.php:557
+#: includes/shortcodes/cmc-single-shortcode.php:566
+msgid "N/A"
+msgstr "N / A"
+
+#: includes/shortcodes/cmc-shortcode.php:248
+#: includes/shortcodes/cmc-top-gl-shortcode.php:61
+msgid "Name"
+msgstr ""
+"Naam\n"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:680
+#: includes/shortcodes/cmc-shortcode.php:224
+#: includes/shortcodes/cmc-single-shortcode.php:664
+msgid "Next"
+msgstr "volgende"
+
+#: includes/shortcodes/cmc-shortcode.php:226
+msgid "No Coin Found"
+msgstr "Geen munt gevonden"
+
+#: admin/cmc-edit-disable-coin/cmc-display-table.php:40
+msgid "No coin(s) found."
+msgstr "Geen munt (en) gevonden."
+
+#: includes/shortcodes/cmc-shortcode.php:227
+msgid "No Favourite Coin"
+msgstr "Geen Favoriete Munt"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:767
+#: includes/shortcodes/cmc-shortcode.php:280
+#: includes/shortcodes/cmc-single-shortcode.php:759
+msgid "No Graphical Data"
+msgstr "Geen grafische gegevens"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:683
+#: includes/shortcodes/cmc-single-shortcode.php:667
+msgid "No Historical Data Available"
+msgstr "Geen historische gegevens beschikbaar"
+
+#: admin/cmc-edit-disable-coin/cmc-coins-list-class.php:68
+msgid "Number of coins per page"
+msgstr "Aantal munten per pagina"
+
+#: includes/shortcodes/cmc-single-shortcode.php:915
+msgid "Official"
+msgstr ""
+"Officieel\n"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:936
+msgid "Official Website"
+msgstr "Officiële Website"
+
+#: includes/shortcodes/cmc-single-shortcode.php:918
+msgid "Paper"
+msgstr "Papier"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:679
+#: includes/shortcodes/cmc-shortcode.php:223
+#: includes/shortcodes/cmc-single-shortcode.php:663
+msgid "Previous"
+msgstr "voorgaand"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:693
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:759
+#: includes/shortcodes/cmc-shortcode.php:249
+#: includes/shortcodes/cmc-single-shortcode.php:677
+#: includes/shortcodes/cmc-single-shortcode.php:751
+#: includes/shortcodes/cmc-top-gl-shortcode.php:62
+msgid "Price"
+msgstr "Prijs"
+
+#: includes/shortcodes/cmc-shortcode.php:291
+msgid "Price Graph "
+msgstr "Prijs grafiek"
+
+#: includes/shortcodes/cmc-top-gl-shortcode.php:50
+msgid "Processing..."
+msgstr "Verwerken..."
+
+#: includes/shortcodes/cmc-single-shortcode.php:615
+msgid "Rank"
+msgstr "Rang"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:930
+#, php-format
+msgid "Rank %s"
+msgstr "Rank %s"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:488
+msgid "Read Less"
+msgstr "Lees minder"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:487
+msgid "Read More"
+msgstr "Lees verder"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:953
+#: includes/shortcodes/cmc-single-shortcode.php:932
+msgid "Reddit"
+msgstr "Reddit"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:600
+#: includes/shortcodes/cmc-shortcode.php:242
+#: includes/shortcodes/cmc-single-shortcode.php:594
+msgid "Remove from watch list"
+msgstr "Verwijderen uit \" watch list"
+
+#: includes/cmc-helpers.php:278
+msgid "search"
+msgstr ""
+"zoeken\n"
+
+#: includes/shortcodes/cmc-shortcode.php:139
+#, php-format
+msgid "Shortcode with id %d is not available"
+msgstr "Shortcode met id %d  is niet beschikbaar"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:681
+#: includes/shortcodes/cmc-single-shortcode.php:665
+msgid "Show"
+msgstr "Laten zien"
+
+#: includes/shortcodes/cmc-shortcode.php:237
+msgid "Show/Hide Watch List"
+msgstr "Show/Hide Watch List"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:700
+#: includes/shortcodes/cmc-single-shortcode.php:685
+msgid "Something Wrong With URL"
+msgstr "Iets mis met URL"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:647
+#: includes/shortcodes/cmc-single-shortcode.php:624
+msgid "Something wrong with URL"
+msgstr "Er is iets mis met de URL"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:757
+#: includes/shortcodes/cmc-single-shortcode.php:749
+msgid "To"
+msgstr "Naar"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:956
+#: includes/shortcodes/cmc-single-shortcode.php:935
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:1115
+msgid "Twitter Feeds"
+msgstr "Twitter Feeds"
+
+#: includes/cmc-helpers.php:279
+msgid "Unable to find any result"
+msgstr "Kan geen resultaat vinden"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:600
+msgid "Unwatch"
+msgstr "Unwatch"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:358
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:436
+#: includes/shortcodes/cmc-single-shortcode.php:337
+#: includes/shortcodes/cmc-single-shortcode.php:416
+msgid "up"
+msgstr "omhoog"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:617
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:694
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:760
+#: includes/shortcodes/cmc-single-shortcode.php:607
+#: includes/shortcodes/cmc-single-shortcode.php:678
+#: includes/shortcodes/cmc-single-shortcode.php:752
+msgid "Volume"
+msgstr "Volume"
+
+#: includes/shortcodes/cmc-shortcode.php:267
+msgid "Volume "
+msgstr "Volume"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:600
+msgid "Watch"
+msgstr "Kijken"
+
+#: includes/shortcodes/cmc-single-shortcode.php:915
+msgid "Website"
+msgstr "Website"
+
+#: includes/shortcodes/cmc-single-shortcode.php:918
+msgid "White"
+msgstr "Wit"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:939
+msgid "White Paper"
+msgstr "White Paper"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:942
+#: includes/shortcodes/cmc-single-shortcode.php:921
+msgid "YouTube"
+msgstr "YouTube"
+
+#: includes/shortcodes/cmc-advanced-single-shortcode.php:758
+#: includes/shortcodes/cmc-single-shortcode.php:750
+msgid "Zoom"
+msgstr "zoemen"

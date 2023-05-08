@@ -1,0 +1,11 @@
+#adminmenu a[href="admin.php?page=cmc-coin-details-settings"][aria-current="page"],
+#adminmenu a[href="admin.php?page=cmc-coin-extra-settings"],
+#adminmenu a[href="admin.php?page=cmc-coin-documentation-settings"],
+#adminmenu a[href="admin.php?page=cmc-coin-update-settings"]{
+    display: none;
+
+}   
+
+#cmc_single_settings_options #cmc_single_settings_old_currency{
+    width: 11%;
+}
